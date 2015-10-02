@@ -6,7 +6,10 @@ int main()
 
 	while ( window.isOpen( ) )
 	{
+		// This is a test comment for git -- Erik
 		window.clear( );
+
+
 
 		window.display( );
 	}
